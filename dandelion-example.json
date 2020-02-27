@@ -1,11 +1,11 @@
 {
     "repositories": {
         "dandelion-example-1": {
-            "url": "git@github.com:dandelionphp/dandelion-example-1.git",
+            "url": "https://<GITHUB_USERNAME>:<GITHUB_TOKEN>@github.com:dandelionphp/dandelion-example-1.git",
             "path": "example-1"
         },
         "dandelion-example-2": {
-            "url": "git@github.com:dandelionphp/dandelion-example-2.git",
+            "url": "https://<GITHUB_USERNAME>:<GITHUB_TOKEN>@github.com:dandelionphp/dandelion-example-2.git",
             "path": "example-2"
         }
     },
