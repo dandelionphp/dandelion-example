@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "url": "git@github.com:dandelionphp/dandelion-example-1.git",
+            "path": "example-1"
+        },
+        {
+            "url": "git@github.com:dandelionphp/dandelion-example-2.git",
+            "path": "example-2"
+        }
+    ],
+    "pathToTempDirectory": "tmp/"
+}
