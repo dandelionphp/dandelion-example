@@ -2,15 +2,15 @@
   "repositories": {
     "dandelion-example-1": {
       "url": "https://<GITHUB_TOKEN>@github.com/<OWNER>/<REPO>.git",
-      "path": "example-1",
+      "path": "example-1/",
       "version": "1.1.0"
     },
     "dandelion-example-2": {
       "url": "https://<GITHUB_TOKEN>@github.com/<OWNER>/<REPO>.git",
       "path": "example-2",
-      "version": "1.0.0"
+      "version": "1.0.0/"
     }
   },
-  "pathToTempDirectory": "tmp/",
+  "pathToTempDirectory": "/tmp/",
   "pathToSplitshLite": "/usr/bin/splitsh-lite"
 }
